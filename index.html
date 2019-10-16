@@ -1,17 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Polo Selector</title>
 
-  <link type="text/css" rel="stylesheet" href="assets/css/materialize.min.css"  media="screen,projection"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+          <label>Selecione seu Estado</label>
+          <select id="estado">
+            <option value="default">Onde você mora?</option>
+            <option value="AL">Alagoas</option>
+            <option value="BA">Bahia</option>
+            <option value="CE">Ceará</option>
+            <option value="DF">Distrito Federal</option>
+            <option value="ES">Espírito Santo</option>
+            <option value="GO">Goiás</option>
+            <option value="MA">Maranhão</option>
+            <option value="MT">Mato Grosso</option>
+            <option value="MG">Minas Gerais</option>
+            <option value="PA">Pará</option>
+            <option value="PB">Paraíba</option>
+            <option value="PR">Paraná</option>
+            <option value="PE">Pernambuco</option>
+            <option value="RJ">Rio de Janeiro</option>
+            <option value="RS">Rio Grande do Sul</option>
+            <option value="RO">Rondônia</option>
+            <option value="SC">Santa Catarina</option>
+            <option value="SP">São Paulo</option>
+          </select>
+        </div>
 
-  <title>Polo Selector</title>
+        <div class="col-6">
+          <label>Selecione o Polo</label>
+          <select id="polo">
+            <option value="default">Por favor, selecione o seu estado</option>
+          </select>
+        </div>
+      </div>
+    </div>
 
-</head>
-<body> 
-    
-    <script type="text/javascript" src="assets/js/materialize.min.js"></script>
-</body>
+    <script src="index.js"></script>
+  </body>
 </html>
