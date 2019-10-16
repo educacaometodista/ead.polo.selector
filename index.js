@@ -10,7 +10,7 @@ const Default = '<option value="default">Escolha o polo mais próximo de você</
       // Seta o segundo select conforme definido o estado
       if (val == `default`) {
         $(`#polo`).html(
-          `<option value='default'>Por favor, selecione o seu estado</option>`
+          `<option value=''>Por favor, selecione o seu estado</option>`
         );
       } 
       
