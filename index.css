@@ -1,5 +1,15 @@
-@import "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css";
-@import "https://fonts.googleapis.com/css?family=Roboto&display=swap";
+/* 
+
+POLO SELECTOR
+
+GitHub: https:github.com/educacaometodista/ead.polo.selector
+
+Autor: Léu Almeida (leunardo.dev)
+
+*/
+
+@import "https:stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css";
+@import "https:fonts.googleapis.com/css?family=Roboto&display=swap";
 
 select {
   font-family: 'Roboto', sans-serif;

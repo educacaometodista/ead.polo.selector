@@ -1,3 +1,10 @@
+
+// POLO SELECTOR
+//
+// GitHub: https://github.com/educacaometodista/ead.polo.selector
+//
+// Autor: Léu Almeida (leunardo.dev)
+
 import data from './data.js';
 
 const Default = '<option value="default">Escolha o polo mais próximo de você</option>';
