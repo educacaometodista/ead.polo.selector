@@ -23,6 +23,7 @@ select {
   border-top: 0;
   border-bottom: solid 2px #FFD50F;
   box-shadow: 4px 4px 20px #0000001c;
+  margin-bottom: 20px;
 }
 
 select:focus,
