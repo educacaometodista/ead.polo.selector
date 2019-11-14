@@ -314,10 +314,10 @@ const data = {
       title: 'Jundiaí',
       url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/jundiai',
     },
-    {
-      title: 'Limeira',
-      url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/sao-paulo/limeira',
-    },
+    // {
+    //   title: 'Limeira',
+    //   url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/sao-paulo/limeira',
+    // },
     {
       title: 'Lins',
       url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/lins',
@@ -402,10 +402,10 @@ const data = {
       title: 'São Paulo - Paulista (Consolação)',
       url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/paulista',
     },
-    {
-      title: 'São Paulo - Perus',
-      url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/perus',
-    },
+    // {
+    //   title: 'São Paulo - Perus',
+    //   url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/perus',
+    // },
     {
       title: 'São Paulo - Santo Amaro',
       url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/santo-amaro/',
