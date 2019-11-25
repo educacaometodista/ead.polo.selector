@@ -307,10 +307,6 @@ const data = {
       url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/itapeva',
     },
     {
-      title: 'Itaquaquecetuba (unidade de apoio do polo Guaianases)',
-      url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/itaquaquecetuba',
-    },
-    {
       title: 'Jundiaí',
       url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/jundiai',
     },
