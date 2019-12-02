@@ -1,0 +1,1778 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+        <!--    
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        SEMPRE QUE FOR ACRESCENTAR NOVOS POLOS, IR ATÉ AS ÚLTIMAS LINHAS
+        -->
+
+    <Document>
+        <name>NOVO CAMPUS EAD</name>
+        <description>Polos de Apoio Presencial</description>
+        <Style id="icon-ci-1-normal">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>images/icon-1.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="icon-ci-1-highlight">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>images/icon-1.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <scale>1.1</scale>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="icon-ci-1">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-ci-1-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#icon-ci-1-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Folder>
+            <name>POLOS FASE I</name>
+            <Placemark>
+                <name>POLO ALTAMIRA - PA</name>
+                <description>
+                    Endereço: Travessa Agrário Cavalcante, 1120, Sudam I, Altamira, PA
+                    Telefone: (93) 3515-2414 / (93) 3515-3995
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/altamira
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -52.2175358,-3.204323,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO BAURU - SP</name>
+                <description>
+                    Endereço: Rua Antônio dos Reis, 8-43 – Higienópolis – CEP: 17.013-024 – Bauru – SP 
+                    Telefone: (14) 3223-6791 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/bauru
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -49.0593889,-22.3261846,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!--
+            <Placemark>
+                <name>POLO BELO HORIZONTE - MG</name>
+                <description>
+                    Endereço: Avenida Amazonas, 491 – 15º Andar – Centro – Belo Horizonte – MG 
+                    Telefone: (31) 3270-4500
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/belo-horizonte
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -43.9393015,-19.9197001,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            -->
+            <Placemark>
+                <name>POLO BELO HORIZONTE - PRAÇA DA LIBEDADE - MG</name>
+                <description>
+                    Endereço: Rua da Bahia, 2020 - Campus Praça da Liberdade - Prédio 1 – 2º Andar, Belo Horizonte - MG
+                    Telefone: (31) 3244-7242
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/belo-horizonte-praca-da-liberdade
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -43.939301,-19.919700,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!-- Placemark>
+                <name>Jandira  - SP</name>
+                <description>
+                    Endereço: Via Expressa Mauri Sebastião Barufi, 08 - Sala 104 - 1º Andar - CEP: 06606-035, Jandira  - SP
+                    Telefone: (11) 3808-9559 ou (11) 95160-6116
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/jandira-sp
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+          -46.903695,-23.530990,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+            
+            <!-- <Placemark>
+                <name>Limeira  - SP</name>
+                <description>
+                    Endereço: Praça Dr. Luciano Esteves, 149 - Sala 15 - Centro - Limeira
+                    Telefone: (19) 3442-7434
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sao-paulo/limeira
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+          -47.402463,-22.560188,0
+          </coordinates>
+                </Point>
+            </Placemark> -->
+            
+            <Placemark>
+                <name>Porto Alegre  - RS</name>
+                <description>
+                    Endereço: Rua Cel. Joaquim Pedro Salgado, 80 - Rio Branco, Porto Alegre  - RS
+                    Telefone: (51) 3316-1290 e (55) 3316-1261
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/rio-grande-do-sul/porto-alegre
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+          -51.197434,-30.034181,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!-- Placemark>
+                <name>Pouso Alegre  - MG</name>
+                <description>
+                    Endereço: Rua Cel. Otavio Meyer, 160 - 2º Piso – Centro - CEP: 37.550-000 (Galleria PA Shopping). Pouso Alegre - MG
+                    Telefone: (35) 3421-1406
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/pouso-alegre
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+          -45.938776,-22.229245,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+            
+            <Placemark>
+                <name>Uberlandia  - MG</name>
+                <description>
+                    Endereço: Rua José Antonio Teodoro -  5 - Nossa Senhora Aparecida - Uberlândia / MG - Matriz
+                    Telefone: (34) 3305-1719 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/minas-gerais/uberlandia
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+          -48.265706,-18.910789,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            
+            <Placemark>
+                <name>POLO BERTIOGA - SP</name>
+                <description>
+                    Endereço:  Rua Passeio do Ipê, 99 - Riviera de São Lourenço, Bertioga - SP
+                    Telefone: (13) 3317-2876 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/bertioga
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.0304966,-23.7912085,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO BRASÍLIA - DF</name>
+                <description>
+                    Endereço: SCS Q. 08, Bloco B-60, Sala 460, 4º andar, Ed. Venâncio 2000 - Brasília, DF 
+                    Telefone: (61) 3224-9844 e (61) 3224-6954 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/brasilia
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -47.8847719,-15.7952239,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            
+            <!--Placemark>
+                <name>Sobradinho - Brasília - DF</name>
+                <description>
+                    Endereço: Quadra 6, Comercio Local 24 SN, Sobradinho - CEP: 73026-660 - Brasília/DF
+                    Telefone: (61) 3026-5605 | (61) 98162-0772 |(61) 98313-5832
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sobradinho
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+          -47.892721, -15.795246,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+            
+            <Placemark>
+                <name>POLO CAMPINA GRANDE - PB</name>
+                <description>
+                    Endereço: R. José Nogueira Pereira, 96 - Três Irmãs, CEP: 58423-210 , Campina Grande - PB
+                    Telefone: (83) 3339-6147
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/campina-grande
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -35.9217851,-7.2488091,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO CAMPINAS</name>
+                <description>
+                    Endereço: R. Dr. Delfino Cintra, 100 - Vila Itapura, CEP: 13010-219, Campinas - SP
+                    Telefone: (19) 3233-3400 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/campinas
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -47.048825,-22.8671366,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO FRANCA - SP</name>
+                <description>
+                    Endereço: Rua Campos Sales, 1289 - Centro, Franca - SP 
+                    Telefone: (16) 3724-2495 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/franca
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -47.4008049,-20.542677,0
+          </coordinates>
+                </Point>
+            </Placemark>
+
+            <!-- Placemark>
+                <name>Polo São João Clímaco - São Paulo - SP</name>
+                <description>
+                    Endereço: Rua São João Clímaco n° 407 - conjunto 05 e 06. São Paulo - SP
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sao-joao-climaco
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.5933374,-23.6244475,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+
+            <Placemark>
+                <name>Polo São Paulo - Guaianases - SP</name>
+                <description>
+                    Endereço: Rua Serra do Mar, 58, Guaianazes - SP
+                    Telefone: (11) 3808-9559 / (11) 2557-8191 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/guaianases
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.417224,-23.545114,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO GUARATINGUETÁ - SP</name>
+                <description>
+                    Endereço: Rua Sylvio Gonçalves Dias, 78 e 82, Guaratinguetá - SP
+                    Telefone: (12) 2103-3504
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/guaratingueta
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -45.2015666,-22.7862368,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!--Placemark>
+                <name>POLO GUARULHOS - SP</name>
+                <description>
+                    Endereço: Rua João Gonçalves, 254 - Centro, Guarulhos. CEP: 07010-010.
+                    Telefone: (11) 3808-9559/ (11) 95160-6116 | Whatsapp: (11) 99719-8242
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/guarulhos
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.5298894,-23.4678803,0
+          </coordinates>
+                </Point>
+            </Placemark-->
+            <Placemark>
+                <name>POLO IMPERATRIZ - MA</name>
+                <description>
+                    Endereço: Avenida Dorgival Pinheiro de Sousa, nº 1111, Centro, Imperatriz - MA - CEP: 65903-270
+                    Telefone: (99) 3525-9758
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/imperatriz
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -47.4802123,-5.5249282,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO ITANHAÉM - SP</name>
+                <description>
+                    Endereço: Avenida João Mariano Ferreira, nº 151, Vila São Paulo - CEP: 11740-000,Itanhaém - SP
+                    Telefone: (13) 4109-1759 e (13) 99618-5792 (Vivo com WhatsApp) 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/itanhaem
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.7853697,-24.1821356,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO ITAPEVA - SP</name>
+                <description>
+                    Endereço: Prefeito Felipe Marinho, 110, Jardim Ferrari, Itapeva - SP 
+                    Telefone: (15) 3521-4737  
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/itapeva
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -48.8797281,-23.9897052,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO LINS - SP</name>
+                <description>
+                    Endereço: R. Campos Sales, 389 - Centro - CEP. 16400-055, Lins - SP
+                    Telefone: (14) 3533-5500 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/lins
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -49.7501234,-21.6757882,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            
+             <!--<Placemark>
+                <name>POLO LONDRINA - PR</name>
+                <description>
+                    Endereço: Tupi, 582, Centro, CEP 86020-350, Londrina - PR
+                    Telefone: (43) 3037-9155 / (43) 99698-1668
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/londrina
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -51.1705011,-23.3109853,0
+          </coordinates>
+                </Point>
+            </Placemark>-->
+            
+            <Placemark>
+                <name>POLO MACAÉ - RJ</name>
+                <description>
+                    Endereço: Rua Tenente Rui Lopes Ribeiro, 171 – Centro, Macaé - RJ
+                    Telefone: (22) 2762-4189 / (22) 99773-6172
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/macae
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -41.778823,-22.37703,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO MACEIO - AL</name>
+                <description>
+                    Endereço: Travessa Senhor do Bonfim, 156 - Poço - Maceió - AL 
+                    Telefone: (82) 3221-2333 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/maceio
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -35.718890,-9.647337,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO NOVA IGUAÇU - RJ</name>
+                <description>
+                    Endereço: : Rua Prefeito João Luiz Nascimento, 96 – Centro – Nova Iguaçu – RJ
+                    Telefone: (21) 4113-2919
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/nova-iguacu
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -43.454525, -22.757227,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO MAUÁ - SP</name>
+                <description>
+                    Endereço: Rua Onze de Junho, 166 - Jd. Pilar, Mauá - SP 
+                    Telefone: (11) 4513-6991 - (11) 2312-9576 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/maua
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.4574271,-23.6741452,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            Placemark>
+                <name>Polo São Paulo - Perus - SP</name>
+                <description>
+                    Endereço: R. Juvêncio de Araújo Figueiredo, 609 – Perus - São Paulo – SP – CEP: 05204-140
+                    Telefone: (11) 9 9468-0780
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/perus
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.7595785,-23.4063523,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO PETRÓPOLIS - RJ</name>
+                <description>
+                    Endereço: Rua Mal. Deodoro, 80, Centro, Petrópolis - RJ
+                    Telefone: (24) 2243-9188 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/petropolis
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -43.1777193,-22.5118752,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO PRESIDENTE PRUDENTE - SP</name>
+                <description>
+                    Endereço: Rua Guadalajara, nº 1394 – Vila Santa Teresa - CEP.19023-330 , Presidente Prudente - SP
+                    Telefone: (18) 3903-1222 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/presidente-prudente
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -51.4042567,-22.1089952,0
+          </coordinates>
+                </Point>
+            </Placemark>
+
+            <Placemark>
+                <name>POLO RIBEIRÃO PRETO - SP</name>
+                <description>
+                    Endereço: R. Lafaiete, 695 - Centro - CEP: 14015-080,  Ribeirão Preto - SP. Entrada pela Rua Florência de Abreu, 714
+                    Telefone: (16) 4009-0261 | Whatsapp (16) 99963-5812 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/ribeirao-preto
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -47.809478,-21.1798093,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO São Bernardo do Campo - Rudge Ramos - SP</name>
+                <description>
+                    Endereço: Rua Alfeu Taváres, 149 - Rudge Ramos, São Bernardo do Campo - SP 
+                    Telefone: (11) 4366-5000 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/rudge-ramos
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.5749135,-23.6544605,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!-- Placemark>
+                <name>POLO SALVADOR - BA</name>
+                <description>
+                    Endereço: Avenida Anita Garibaldi, 449, Federação - CEP: 40210-750 - Salvador - BA
+                    Telefone: (71) 3052-2677
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/salvador
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -38.506961,-12.993087,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+            <Placemark>
+                <name>POLO SANTOS - SP</name>
+                <description>
+                    Endereço: RUA DA PAZ, 72 - BOQUEIRÃO  - CEP: 11045-520., Santos - SP
+                    Telefone: (13) 3221-8300 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/santos
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.328952,-23.9687662,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO SÃO JOSÉ DO RIO PRETO - SP</name>
+                <description>
+                    Endereço: Rua Voluntários de São Paulo, 3587, Centro, CEP: 15015-200, São José do Rio Preto - SP
+                    Telefone: (17) 3222-7450 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sao-jose-do-rio-preto
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -49.3822656,-20.813818,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO SÃO JOSÉ DOS CAMPOS - SP</name>
+                <description>
+                    Endereço: Rua Coronel José Monteiro, 621 - CEP: 12210-140,São José dos Campos - SP
+                    Telefone: (12) 3942-3600 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sao-jose-dos-campos
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -45.8816385,-23.1820044,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO SOROCABA - SP</name>
+                <description>
+                    Endereço: R. Dr. Armando Sales de Oliveira, 504, Vila Trujillo - CEP: 18060-370 - Sorocaba - SP
+                    Telefone: (15) 3221-9977
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sorocaba
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -47.471770,-23.493076,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO VITÓRIA - ES</name>
+                <description>
+                    Endereço: Avenida Maruípe, 2833 - CEP: 29045-235 - Loja 01, Vitória - ES
+                    Telefone: (27) 3024-1996 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/vitoria
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -40.3064979,-20.2918491,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO VOLTA REDONDA - RJ</name>
+                <description>
+                    Endereço: Av. Maranhão, 101, Retiro, Volta Redonda - RJ 
+                    Telefone: (24) 3346-4061 – (24) 3338-8456 | Whatsapp: (24) 98844-8456
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/volta-redonda
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -44.1260836,-22.502426,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO PORTO VELHO - RO</name>
+                <description>
+                    Endereço: Rua Afonso Pena, 1142 - B. Nossa Senhora das Graças - CEP: 76804-120, Porto Velho - RO
+                    Telefone: (69) 3223-1724 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/porto-velho
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -63.8932099,-8.7613512,0
+          </coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>POLOS FASE II</name>
+                <Placemark>
+                <name>POLO CERES - GO</name>
+                <description>
+                    Endereço: Av. Brasil, Qd. 13 s/nº - Bairro Jardim Morada Verde - 3º Piso - Sala: C203 - Ceres (GO) - CEP.: 76300-000
+                    Telefone: (62) 3323-1040 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/cidade-ocidental
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+             -49.615712,-15.310112,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            
+            <Placemark>
+                <name>POLO GUARAPARI - ES</name>
+                <description>
+                    Endereço: Rua Matias Coutinho, 206 - Bairro Itapebussu, CEP: 29210-160 - Guarapari - ES
+                    Telefone: (27) 3362-8004 (27) 99823-9371 (27) 98834-0506 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/guarapari
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -40.507025,-20.650393,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            
+            <!--
+            <Placemark>
+                <name>POLO JOÃO PESSOA - PB</name>
+                <description>
+                    Endereço: Rua Rodopiano Ferreira da Nóbrega, 435 - Mangabeira II - CEP: 58.057-010, João Pessoa - PB
+                    Telefone: (83) 3239-1045 (83) 3239-1616 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/joao-pessoa
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -34.861051,-7.11532,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            -->
+            
+            <Placemark>
+                <name>POLO PARELHEIROS - SP</name>
+                <description>
+                    Endereço: Avenida Sadamu Inoue, 5617. Jardim Aladim, São Paulo - SP. CEP: 04883-215 
+                    Telefone: (11) 5921-1356 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/parelheiros
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.7361177,-23.8185404,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo Juiz de Fora (Granbery) - MG</name>
+                <description>
+                    Endereço: Rua Batista de Oliveira, 1145 – SALA JP 110 – Centro – CEP: 36.010-532 - Juiz de Fora - MG
+                    Telefone: (32) 2101-1835
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/juiz-de-fora
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -43.3433999,-21.7624237,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!-- Placemark>
+                <name>POLO NITERÓI - RJ</name>
+                <description>
+                    Endereço: R. Visconde do Uruguai, 480 - 3º andar - Centro - CEP 24030-078 Niterói - RJ
+                    Telefone: (21) 3629-3838 (21) 3629-2323 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/niteroi/
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -43.104335,-22.880766,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+            <Placemark>
+                <name>POLO PASSO FUNDO - RS</name>
+                <description>
+                    Endereço: Avenida Brasil Oeste, 1623 - Boqueirão, Passo Fundo - RS
+                    Telefone: (54) 3312-1988
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/passo-fundo/
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -52.408335,-28.261163,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!-- <Placemark>
+                <name>POLO PIRACICABA, CENTRO - SP</name>
+                <description>
+                    Endereço: Rua Dom Pedro II, 791 - CEP: 13.400-390, Piracicaba - SP
+ – Piracicaba, SP.
+                    Telefone: 3124-1862
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/piracicaba
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -47.6503779,-22.727791,0
+          </coordinates>
+                </Point>
+            </Placemark> -->
+            <Placemark>
+                <name>Polo Rio de Janeiro (Centro) - RJ</name>
+                <description>
+                    Endereço: Rua Camerino, 130 - Centro, CEP: 20.080-010, Rio de Janeiro - RJ
+                    Telefone: (21) 2516-7363 / (21) 2516-7407 / (21) 2253-7884 / (21) 2253-8116 | Celular: WhatsApp: (21) 98053-6200 / Claro (21) 97303-1700 / OI (21) 98903-9500 / Vivo (21) 99840-9202 / Tim (21) 98321-2071
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/rio-de-janeiro-centro
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -43.209587,-22.903539,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo Engenheiro Paulo de Frontin - RJ</name>
+                <description>
+                    Endereço: Avenida João Batista Ferrini nº 132. Loja 03, Centro - Engenheiro Paulo de Frontin - RJ.
+                    Telefone: (24) 2463-9939
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/engenheiro-paulo-de-frontim
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -43.677685, -22.550341,
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!-- Placemark>
+                <name>Polo Rio Bonito - RJ</name>
+                <description>
+                    Endereço: Avenida Sete de Maio, 640, Centro - Rio Bonito - RJ.
+                    Telefone: (21) 2734-6679
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/rio-bonito
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -42.629410,-22.712323,
+          </coordinates>
+                </Point>
+            </Placemark -->
+            
+            <Placemark>
+                <name>POLO SANTA MARIA - RS</name>
+                <description>
+                    Endereço: Rua Dr. Turi, 2003. CEP 97050-180, Santa Maria - RS
+                    Telefone: (55) 3028-7000 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/santa-maria/
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -53.807487,-29.685807,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo São Paulo - Jabaquara - SP</name>
+                <description>
+                    Endereço: R. Jaguarão, 32 - Cidade Vargas, CEP: 04318-040, São Paulo - SP
+                    Telefone: (11) 2369-6286
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sao-paulo-jabaquara
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.646389,-23.652222,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo Vergueiro - São Bernardo do Campo - SP</name>
+                <description>
+                    Av. Senador Vergueiro, 1301, Jardim do Mar, São Bernardo do Campo - SP 
+                    Telefone: (11) 4366-5000 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/vergueiro
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.555903,-23.683288,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo Planalto - São Bernardo do Campo - SP</name>
+                <description>
+                    Av. Dom Jaime de Barros Câmara, 1000, Planalto. São Bernardo do Campo - SP 
+                    Telefone: (11) 4366-5000 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/planalto
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.571501,-23.706675,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo São Paulo - Santo Amaro - SP</name>
+                <description>
+                    Endereço: Avenida João Dias, 242 - Santo Amaro - CEP: 04.724-000, São Paulo - SP
+                    Telefone: (11) 2148-0150 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/santo-amaro/
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.7,-23.65,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO URUGUAIANA - RS</name>
+                <description>
+                    Endereço: Rua Tiradentes, 3432 - Centro - CEP: 97510-501, Uruguaiana - RS
+                    Telefone: (55) 3412-4355
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/uruguaiana
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -57.088208,-29.749501,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO CURITIBA - PR</name>
+                <description>
+                    Endereço: Rua XV de Novembro, 1456 - Conjunto 201, 2º Andar - Centro - Curitiba - PR 
+                    Telefone: (41) 3011-6602 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/curitiba/
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -49.273252,-25.428356,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO DIADEMA - SP</name>
+                <description>
+                    Endereço: Rua Oriente Monti, 115, Centro, Diadema, SP, 09.910-250 - Diadema, SP
+                    Telefone: (11) 4226-9000 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/diadema/
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.626608, -23.690091,0 
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO SOBRAL - CE</name>
+                <description>
+                    Endereço: Rua Dr. Monte, 503 - Centro - CEP: 62011200 - Sobral - CE
+                    Telefone: (88) 3614-8290 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sobral/
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -40.353782,-3.682359,0
+          </coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>POLOS FASE III</name>
+            <Placemark>
+                <name>POLO ARANTINA - MG</name>
+                <description>
+                    Endereço: Rua Prefeita Dona Terezinha, 901 - Centro - CEP: 37360-000 - Arantina - MG
+                    Telefone: (32) 3296-1420
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/arantina
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -44.25289,-21.911208,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO BLUMENAU - SC</name>
+                <description>
+                    Endereço: Rua Dr. Leo de Carvalho, 74 - 3º Andar, Blumenau - SC
+                    Telefone: (47) 3037-7020 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/blumenau
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -49.066025,-26.918752,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO DOM PEDRITO - RS</name>
+                <description>
+                    Endereço: Rua Andrade Neves, 1068 - CEP: 96450-000, Dom Pedrito - RS
+                    Telefone: (53) 3243-7600 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/dom-pedrito
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -54.677469,-30.981847,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO EMBU-GUAÇU - SP</name>
+                <description>
+                    Endereço: Rua Serafim Luiz Martin, nº 80, Centro, CEP: 06900-000 - Embu-Guaçu - SP
+                    Telefone: (11) 4396-5438 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/embu-guacu
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.812019,-23.830657,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>POLO GUARANTÃ DO NORTE - MT</name>
+                <description>
+                    Endereço: Rua Amazonas Quadra 05 - Bloco B - Jd. Araguaia - CEP: 78520-000. Guarantã do Norte - MT
+                    Telefone: (66) 99938-2247 / (66) 3552-1720
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/guaranta-do-norte
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -54.907974,-9.785964,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!--Placemark>
+                <name>POLO INDAIATUBA - SP</name>
+                <description>
+                    Endereço: Rua Padre Anchieta, 484 - Jardim Pau Preto - CEP: 13330-340, Indaiatuba - SP
+                    Telefone: (19) 2516-4408 / (19) 99791-1112
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/indaiatuba
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -47.223444,-23.08821,0
+          </coordinates>
+                </Point>
+            </Placemark-->
+            <!--Placemark>
+                <name>POLO MOGI DAS CRUZES - SP</name>
+                <description>
+                    Endereço: Rua Gertrudes da Conceição Cabral, 165 – Vila Nancy - CEP: 08735-050, Mogi das Cruzes - SP
+                    Telefone: (11) 4727-7545, (11) 4727-7459 ou (11) 2852-3294 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/mogi-das-cruzes
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.187134,-23.524754,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+            <!-- Placemark>
+                <name>POLO NOVA FRIBURGO - RJ</name>
+                <description>
+                    Endereço: Alameda Eduardo Guinle, 265, Centro, CEP: 28625-130,Nova Friburgo - RJ
+                    Telefone: (22) 2523-9449 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/nova-friburgo
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -42.533698,-22.287136,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+            <Placemark>
+                <name>POLO OSASCO - SP</name>
+                <description>
+                    Endereço: R. Benedito Américo de Oliveira, 36, Vila Yara. CEP: 06028-080, Osasco - SP
+                    Telefone: (11) 3654-1330
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/osasco
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.789923,-23.531693,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo Rio de Janeiro - Realengo - RJ</name>
+                <description>
+                    Endereço: Rua Piraquara, nº 579, Realengo - Rio de Janeiro - RJ
+                    Telefone: (21) 2402-0256
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/rio-de-janeiro-realengo
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -43.433333,-22.883333,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <!-- Placemark>
+                <name>POLO SANTO ANTONIO DA PLATINA - PR</name>
+                <description>
+                    Endereço: Rua Álvaro de Abreu, 213 - CEP 86430-000, Santo Antônio da Platina - PR
+                    Telefone: (43) 3534-4765 / (43) 99929-3224
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/santo-antonio-da-platina
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -50.069389,-23.298256,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+            <Placemark>
+                <name>Polo São Paulo - Lapa - SP</name>
+                <description>
+                    Endereço: Rua Guaicurus, nº 1467, Lapa, Cep: 05033002,São Paulo - SP
+                    Telefone: (11) 3862-5724
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sao-paulo-lapa
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.704345,-23.519882,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo São Paulo - Mooca - SP</name>
+                <description>
+                    Endereço: Av. Paes de Barros, 399 - Mooca - CEP: 03115-020, São Paulo - SP
+                    Telefone: (11) 2693-2297 / (11) 2993-2377 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sao-paulo-mooca
+                </description>                
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.605392,-23.559566,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo São Paulo - Paulista - SP</name>
+                <description>
+                    Endereço: Rua Dona Antônia de Queiroz, 333, Bairro Consolação. CEP 01307-012, São Paulo - SP 
+                    Telefone: (11) 3088-5792
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/paulista
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.6558638,-23.5504758,0
+          </coordinates>
+                </Point>
+            </Placemark>
+
+            <!-- Placemark>
+                <name>Canaã dos Carajás</name>
+                <description>
+                    Endereço: Rua J3, S/N - Quadra 4 Lote 9 (Esquina com a Rua Morais) – Centro - CEP: 68537-000, Canaã dos Carajás - PA
+                    Telefone: (94) 99217-5187 (Vivo) - (94) 98116-3281 (Tim) 
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/canaa-dos-carajas
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -49.8512171,-6.5320907,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+        </Folder>
+        <Folder>
+            <name>POLOS FASE IV</name>
+            <!-- Placemark>
+                <name>POLO BENEVIDES - PA</name>
+                <description>
+                    Endereço: Av. Joaquim Pereira de Queirós, 450 - Bairro Begolândia – CEP: 68795-000, Benevides - PA
+                    Telefone: (91) 3724-2634
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/benevides
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -48.243374,-1.36094,0
+          </coordinates>
+                </Point>
+            </Placemark -->
+            <Placemark>
+                <name>POLO BRAGANÇA PAULISTA - SP</name>
+                <description>
+                    Endereço: Rodovia Alkindar Monteiro Junqueira, S/N, Km 52. Campo Novo - Bragança Paulista - SP
+                    Telefone: (11) 4033-2051 / (11) 99531-9397 / (11) 97589-7275
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/braganca-paulista
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+            -46.568783,-22.969087,0
+          </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Polo Arapongas - PR</name>
+                <description>
+                    Endereço: Rua Tucanos, 1009 - Centro - CEP: 86701-020 , Arapongas - PR
+                    Telefone: (43) 3055-4800
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/arapongas
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+                       -51.4395295,-23.4115287,0
+                    </coordinates>
+                </Point>
+            </Placemark>
+            <!-- Placemark>
+                <name>Polo Araçatuba - SP</name>
+                <description>
+                    Endereço: Rua Afonso Pena, 1338 - Vila Mendonca, Araçatuba - SP
+                    Telefone: (18) 3621-6110
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/aracatuba
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+                       -50.4302419,-21.208555,0
+                    </coordinates>
+                </Point>
+            </Placemark -->
+            <Placemark>
+                <name>Polo Birigui - SP</name>
+                <description>
+                    Endereço: Rua 9 de Julho, 175 – Centro, Birigui - SP
+                    Telefone: (18) 3649-4010 e Fax (18) 3649-4010
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/birigui
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+                       -50.3389683,-21.2923205,0
+                    </coordinates>
+                </Point>
+            </Placemark>
+            <!-- Placemark>
+                <name>Polo Marília - SP</name>
+                <description>
+                    Endereço: Avenida Pedro de Toledo 780, Centro - CEP: 17509-020 - Boa Vista, Marília - SP
+                    Telefone: (14) 3367-2845
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/marilia
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+                       -49.944700,-22.214761,0
+                    </coordinates>
+                </Point>
+            </Placemark -->
+            <!-- Placemark>
+                <name>Polo Taubaté - SP</name>
+                <description>
+                    Endereço: Rua Armando Sales de Oliveira, 543, Centro, Taubaté - SP
+                    Telefone: (12) 3426-6835 / Celular e WhatsApp: (12) 99114-1269
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/taubate
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+                       -45.5630884,-23.0291987,0
+                    </coordinates>
+                </Point>
+            </Placemark -->
+            <!-- Placemark>
+                <name>Polo Valparaíso - SP</name>
+                <description>
+                    Endereço: Avenida Nove de Julho, 901, Valparaíso - SP
+                    Telefone: (18) 3401-2845 e (18) 3401-2426
+                    Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/valparaiso
+                </description>
+                <styleUrl>#icon-ci-1</styleUrl>
+                <Point>
+                    <coordinates>
+                       -50.8694101,-21.2233687,0
+                    </coordinates>
+                </Point>
+            </Placemark -->
+            
+            <!-- INCLUÍDOS EM 20/09/2018 POR LÉU ALMEIDA -->
+         <Placemark>
+            <name>POLO GUARANTÃ DO NORTE - MT</name>
+            <description>
+               Endereço: Rua Amazonas Quadra 05/Bloco B - Bairro Jardim Araguaia - Guarantã do Norte /MT - Cep: 78520-000
+               Telefone: (66) 99938-2247 / (66) 3552-1720
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/guaranta-do-norte
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -54.9078406, -9.9572448,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO JUNDIAÍ - SP</name>
+            <description>
+               Endereço: Rua Senador Fonseca, 1288, Centro Jundiaí/SP - Cep: 13.201-017
+               Telefone: (11) 3446-3067
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/jundiai
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -46.8900959, -23.1856018,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO RECIFE - PE</name>
+            <description>
+               Endereço: Rua Padre Ibiapina, 90, Tejipó - Recife - PE - CEP: 50920-515
+               Telefone: (81) 3455-8082 / (81) 98810-9611
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/recife
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -34.9575372, -8.0883424,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO VALPARAÍSO DE GOIÁS - GO</name>
+            <description>
+               Endereço: Quadra 34, S/N, Lote 21 Sala 807 - Parque Esplanada III - Valparaíso de Goiás/GO - Cep: 72.876-334
+               Telefone: (61) 3025-5578 / (61) 99422-4661
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/valparaiso-de-goias
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -47.9795989, -16.0510066,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <!-- INCLUÍDOS EM 28/09/2018 POR DJ-P -->
+         <Placemark>
+         <name>POLO VENDA NOVA- MG</name>
+         <description>
+            Endereço:  Rua Dr. Álvaro Camargos, 205 - São João Batista (V Nova), Belo Horizonte - MG - Cep: 31515-200
+            Telefone: (31) 3244-7242
+            Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/venda-nova
+         </description>
+         <styleUrl>#icon-ci-1</styleUrl>
+         <Point>
+            <coordinates>
+               -43.9545283, -19.821001,0
+            </coordinates>
+         </Point>
+      </Placemark>
+         <!-- INCLUÍDOS EM 15/10/2018 POR DJ-P -->
+         <Placemark>
+            <name>POLO PIRACICABA TAQUARAL - SP</name>
+            <description>
+               Endereço:  Rodovia do Açúcar, KM 156 - Bloco 7 Sala 50 - Taquaral - Piracicaba/SP - CEP: 13400-911
+               Telefone:  (19) 3124-1502
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/piracicaba-taquaral
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -47.5944777, -22.782254,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO PIRACICABA SANTA BARBARA D´OESTE - SP</name>
+            <description>
+               Endereço:  Rodovia Luis Ometto (SP 306) , KM 24 - Bairro Residencial Furlan - Santa Bárbara D'Oeste/SP - CEP: 13451-900
+               Telefone: (19) 3124-1502
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/santa-barbara-d-oeste
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -47.4330409, -22.738488,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO BOA VIAGEM - PE</name>
+            <description>
+               Endereço: R. Ten. João Cícero, 301 – Boa Viagem, Recife – PE, 51020-190 
+               Telefone: (81) 3455-8082 / (81) 98810-9611
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/boa-viagem
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -34.8968248, -8.113239,0
+            
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO CABO DE SANTO AGOSTINHO - PE</name>
+            <description>
+               Endereço:  Av. Pref. Diomedes Ferreira de Melo, 180 – Pte. Dos Carvalhos, Cabo de Santo Agostinho – PE - Cep: 54580-225
+               Telefone: (81) 3455-8082 / (81) 98810-9611
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/cabo-de-santo-agostinho
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -34.9839609, -8.239005,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO CASA FORTE - PE</name>
+            <description>
+               Endereço: R. Jacó Velosino, 145 – Casa Forte, Recife – PE, 52061-410
+               Telefone: (81) 3455-8082 / (81) 98810-9611
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/casa-forte
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -34.9211699, -8.0358053,0                     
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO OLINDA - PE</name>
+            <description>
+               Endereço:  Estrada da Caenga, 317 – São Benedito, Olinda – PE, 53210-460
+               Telefone: (81) 3455-8082 / (81) 98810-9611
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/olinda
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -34.8975117, -7.9996607,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO OURICURI - PE</name>
+            <description>
+               Endereço: Av. Fernando Bezerra, 267 – Centro, Ourici – PE, 56200-000 
+               Telefone: (81) 3455-8082 / (81) 98810-9611 
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/oricuri
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -40.0889977, -7.889083,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO  PETROLINA - PE</name>
+            <description>
+               Endereço: Av. da Integração, 173 Gercino Coelho, Petrolina – PE, 56306-300 
+               Telefone: (81) 3455-8082 / (81) 98810-9611 
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/petrolina
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -40.5159768, -9.3860693,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO  - RECIFE PE</name>
+            <description>
+               Endereço:  Rua Padre Ibiapina, 90, Tejipió - Recife - PE – CEP: 50920-515 
+               Telefone: (81) 3455-8082 / (81) 98810-9611
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/recife
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -34.9583204, -8.0892878,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO VÁRZEA - PE</name>
+            <description>
+               Endereço: R. João Francisco Lisboa, 385 – Várzea, Recife – PE, 50741-100  
+               Telefone: (81) 3455-8082 / (81) 98810-9611
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/varzea
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -34.9640046, -8.0500684,0
+               </coordinates>
+            </Point>
+         </Placemark>
+
+         <!-- ADICIONADOS EM 07/01/2019 POR LÉU ALMEIDA -->
+
+         <Placemark>
+            <name>POLO ARCO VERDE - PE</name>
+            <description>
+               Endereço: Praça do Livramento n° 19 – São Miguel – PE - CEP: 56510-1000
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/arco-verde
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -37.053637,-8.418869,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>POLO CARUARU - PE</name>
+            <description>
+               Endereço: Rua São Roque nº 90 – Nossa Senhora das Dores – PE - CEP: 55004-390
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/caruaru
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -35.974252,-8.282361,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <!-- Placemark>
+            <name>POLO GARANHUNS - PE</name>
+            <description>
+               Endereço: Av. Duque de Caxias - Severiano Moraes Filho, Garanhuns - PE - CEP: 55299-435
+               Telefone: (81) 3455-8082 | (81) 98810-9611
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/garanhuns
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -36.470782,-8.884107,0
+               </coordinates>
+            </Point>
+         </Placemark -->
+         <Placemark>
+            <name>POLO PALMARES - PE</name>
+            <description>
+               Endereço: Rua Ivanildo Lins e Silva, S/N – Palmares – PE - CEP: 55540-000
+               Telefone: (81) 3455-8082 | (81) 98810-9611 
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/palmares
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -35.594762,-8.679533,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Polo Piracicaba - ACIPI</name>
+            <description>
+               Endereço: Rua do Rosário, 700 Centro - Cep: 13400-183
+            Telefone: (19) 3417-1763 | (19) 3417-1766
+               Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/piracicaba-acipi
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -47.650403,-22.721126,0
+               </coordinates>
+            </Point>
+         </Placemark>
+
+        <!-- INCLUÍDOS EM 11/01/2019 POR LÉU ALMEIDA -->
+
+        <!--Placemark>
+            <name>Polo Hortolândia - SP</name>
+            <description>
+                Endereço: RUA ANTONIO FERNANDES LEITE, 300 1º ANDAR, JARDIM SANTA ISABEL - CEP: 13185-230
+                Telefone: (19) 3504-3320
+                Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/hortolandia
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -47.1776741, -22.89535,0
+               </coordinates>
+            </Point>
+         </Placemark -->
+
+         <!-- Placemark>
+            <name>Polo Madureira - RJ</name>
+            <description>
+                Endereço: RUA MARIA LOPES, 145 - LOJA A - CEP: 21310-050
+                Telefone: 
+                Página: 
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -43.3372184, -22.8798539,0
+               </coordinates>
+            </Point>
+         </Placemark -->
+
+         <Placemark>
+            <name>Polo Praia Grande - SP</name>
+            <description>
+                Endereço: AV. BRASIL, 600 - SALA 1301 - BOQUEIRÃO - CEP: 11.701-090
+                Telefone: 
+                Página: 
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -46.4199467, -24.0101406,0
+               </coordinates>
+            </Point>
+         </Placemark>
+
+         <!-- Placemark>
+            <name>Polo Sapucaia - RJ</name>
+            <description>
+                Endereço: RUA PAULINO FERNANDES, S/N - ANTA - CEP: 25882-000
+                Telefone: 
+                Página: 
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -42.9905717, -22.0381939,0
+               </coordinates>
+            </Point>
+         </Placemark -->
+
+         <!-- Placemark>
+            <name>Polo Suzano - SP</name>
+            <description>
+                Endereço: RUA DR. CAMPOS SALLES, 123 - CENTRO - CEP: 08674-020
+                Telefone: 
+                Página: 
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -46.3132691, -23.5345357,0
+               </coordinates>
+            </Point>
+         </Placemark -->
+         
+         <!-- ADICIONADO POR FERNANDO EM 17/01/2019 -->
+         <Placemark>
+            <name>Polo Imperatriz - MA</name>
+            <description>
+                Endereço: Rua João Lisboa, 225 – Centro - Imperatriz-Ma
+                Telefone: (99) 3525-9758
+                Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/imperatriz
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -47.483274, -5.527716,0
+               </coordinates>
+            </Point>
+         </Placemark>
+         
+         <!-- ADICIONADO POR FERNANDO EM 15/02/2019 -->
+         <Placemark>
+            <name>Polo Praia Grande - SP</name>
+            <description>
+                Avenida Brasil, 600 - Sala 1301 - Boqueirão - Praia Grande/SP - CEP: 11701-090
+                Telefones: (13) 3473-8748 | (13) 3473-8758 | (13) 99102-1313 - WhatsApp
+                Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/praia-grande
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -46.417747, -24.010038,0
+               </coordinates>
+            </Point>
+         </Placemark>
+
+
+         <!-- ADICIONADO POR LÉU EM 03/07/2019 -->
+         <Placemark>
+            <name>Polo Ceilândia - DF</name>
+            <description>
+                QNM 33 Módulo “A” Área Especial – Ceilândia Sul – Distrito Federal - CEP: 72.215-330
+                Telefones: (61) 3039-3329 / 99531-9887
+                Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/ceilandia
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -48.0919214, -15.8328187,0
+               </coordinates>
+            </Point>
+         </Placemark>
+
+
+         <!-- ADICIONADO POR LÉU EM 03/07/2019 -->
+         <Placemark>
+            <name>Polo Vila da Serra - MG</name>
+            <description>
+                Rua das Flores, 10 - Vila da Serra - Campus Vila da Serra - Nova Lima - MG - CEP: 340.00-000
+                Telefones: (31) 3244-7226 | (31) 3244-7274 | (31) 3244-7295 (Whatsapp – CAC Izabela Hendrix)
+                Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/nova-lima
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                  -43.9419503, -19.9794629,0
+               </coordinates>
+            </Point>
+         </Placemark>
+			
+			
+		<!-- ADICIONADO POR XICO EM 06/08/2019 -->
+         <Placemark>
+            <name>Polo Volta Redonda - RJ</name>
+            <description>
+                Av. Savio Cota de Almeida Gama, nº 2214, Lojas 08 e 201, Retiro, Volta Redonda, RJ. Centro Empresarial Dourados Shopping
+                Telefones: (24) 33464061 /  Whatsapp: (24) 99891-0505
+                Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/volta-redonda
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+				   -44.109789, -22.499601,0
+               </coordinates>
+            </Point>
+         </Placemark>
+
+
+
+		<!-- ADICIONADO POR ORFEU EM 04/09/2019 -->
+         <Placemark>
+            <name>Polo Tatuapé - SP</name>
+            <description>
+                Rua Tijuco Preto, 322 - Tatuapé - São Paulo 
+                Telefones: (11) 4508-6050/ (11) 95705-1000
+                Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/tatuape
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                   -46.5725756, -23.5442897,0
+               </coordinates>
+            </Point>
+         </Placemark>
+
+
+
+		<!-- ADICIONADO POR ORFEU EM 18/09/2019 -->
+         <Placemark>
+            <name>Pitimbu – Paraíba (Unidade de apoio polo Recife)</name>
+            <description>
+                Rua Das Princesas, 355, Pitimbu – PB - CEP 58324-000
+                Telefones: (81) 3455-8082 / (81) 98539-5639
+                Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/pitimbu
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                   -34.8283608, -7.5407835,0
+               </coordinates>
+            </Point>
+         </Placemark>
+
+         <!-- ADICIONADO POR ORFEU EM 19/09/2019 -->
+         <Placemark>
+            <name>Sorocaba - São Paulo</name>
+            <description>
+                Rua Angelo Vial, 90 - Bairro Jardim Refúgio - Sorocaba/SP. CEP 18045-450
+                Telefones: (15) 3326-7752 / (11) 99589-8181 (apenas WhatsApp)
+                Página: http://portal.metodista.br/ead/graduacao-a-distancia/polos/sorocaba
+            </description>
+            <styleUrl>#icon-ci-1</styleUrl>
+            <Point>
+               <coordinates>
+                   -47.4828734, -23.5165811,0
+               </coordinates>
+            </Point>
+         </Placemark>
+
+
+        </Folder>
+    </Document>
+</kml>
