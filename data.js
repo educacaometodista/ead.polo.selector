@@ -395,6 +395,10 @@ const data = {
       url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/paulista',
     },
     {
+      title: 'São Paulo - Perus',
+      url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/perus',
+    },
+    {
       title: 'São Paulo - Santo Amaro',
       url: 'http://portal.metodista.br/ead/graduacao-a-distancia/polos/santo-amaro/',
     },
