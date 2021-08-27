@@ -8,18 +8,15 @@ const data = {
   ba: [
     {
       title: "Vitória da Conquista",
-      url:
-        "http://portal.metodista.br/ead/graduacao-a-distancia/polos/vitoria-da-conquista"
+      url: "http://portal.metodista.br/ead/graduacao-a-distancia/polos/vitoria-da-conquista"
     },
         {
       title: "Belo Horizonte(PÇA LIB.)",
-      url:
-        "http://portal.metodista.br/ead/graduacao-a-distancia/polos/belo-horizonte"
+      url: "http://portal.metodista.br/ead/graduacao-a-distancia/polos/belo-horizonte"
     },
      {
       title: "Polo Salvador",
-      url:
-        "http://portal.metodista.br/ead/graduacao-a-distancia/polos/salvador"
+      url: "http://portal.metodista.br/ead/graduacao-a-distancia/polos/salvador"
     }
   ],
   ce: [
