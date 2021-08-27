@@ -29,7 +29,7 @@ const Default = '<option value="default">Escolha o polo mais próximo de você</
       
       else if (val == `BA`) {
         $(`#polo`).html(
-          `${Default}<option value='${data.ba[0].url}'>${data.ba[0].title}</option>`
+          `${Default}<option value='${data.ba[0].url}'>${data.ba[0].title}</option><option value='${data.ba[1].url}'>${data.ba[1].title}</option>`
         );
       } 
       
